@@ -16,6 +16,8 @@
 
 This document will explain the fundamentals of how the Battleship game works.
 
+- ([Youtube Demo](https://youtu.be/BaLBZEwchQY))
+
 # 1.3 The Rules of Battleship
 
 Battleship has a simple set of rules that create an enjoyable game through trying to find an opponent’s
